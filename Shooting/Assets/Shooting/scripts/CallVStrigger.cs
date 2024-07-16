@@ -1,6 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
-using Unity.VisualScripting;
+using Unity.VisualScripting; //비주얼 스크립트 네임스페이스 추가
 using UnityEngine;
 
 public class CallVStrigger : MonoBehaviour
